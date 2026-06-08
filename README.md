@@ -9,7 +9,7 @@
 [![Total Alerts](https://img.shields.io/lgtm/alerts/g/Hacker0x01/react-datepicker.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Hacker0x01/react-datepicker/alerts)
 
 A simple and reusable Datepicker component for React ([Demo](https://reactdatepicker.com/))
-
+Created by https://sanddev.com/
 ![](https://cloud.githubusercontent.com/assets/1412392/5339491/c40de124-7ee1-11e4-9f07-9276e2545f27.png)
 
 ## Installation
